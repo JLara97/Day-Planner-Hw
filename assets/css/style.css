@@ -1,7 +1,12 @@
 
+img{
+    width: 40px;
+    height: 40px;
+}
 
 .container{
     width: 960px;
+    margin-bottom: 10px;
 }
 
 .heading{
@@ -15,4 +20,9 @@ h1{
 
 h4{
     text-align: center;
+}
+
+.time{
+    font-size: 25px;
+    background-color:lightgrey;
 }
