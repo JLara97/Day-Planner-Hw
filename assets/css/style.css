@@ -1,3 +1,8 @@
+html, body{
+    background: linear-gradient(lightgrey, grey, lightgrey, grey, lightgrey);
+    width: auto;
+    height: 100%;
+}
 
 img{
     width: 40px;
